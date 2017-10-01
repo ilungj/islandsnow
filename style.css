@@ -1,7 +1,15 @@
 
-#menu {
+#top-menu {
   border: 0;
   box-shadow: none;
   background-color: #f5f5f5;
+}
 
+#content-menu {
+  border: 0;
+  box-shadow: none;
+}
+
+.ui.menu .item {
+  font-weight: bold;
 }
